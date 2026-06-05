@@ -6,8 +6,6 @@ AIPM Core Skills 是一套面向 AI 产品经理、AI 体验设计师和 AI Codi
 
 ## 项目背景
 
-项目 owner 有 10 年 UI/体验设计经验，曾经有一年电商创业 gap。从 2025 年 10 月开始高强度学习 AI，并通过 webcoding 从 0 到 1 做过多个 AI 项目，包括 AI 情感疲劳应用、名人智狼团、多角色辩论应用，以及 Claude Code 周边插件。
-
 这个项目用于把这些实践经验沉淀成可复用的开源 skills，让别人可以感知到 owner 不只是会用 AI 工具，也具备 AI 产品经理的判断、设计和落地能力。
 
 ## 首版 Skills
